@@ -1,6 +1,6 @@
-<img src="anim_dusk_sub1mb.png" width="200" align="right" alt="Animated pixel-art sea at dusk">
-
 # Eric Jingryd
+
+<img src="anim_dusk_sub1mb.png" width="200" align="right" alt="Animated pixel-art sea at dusk">
 
 Software engineer in Gothenburg, Sweden. I build secure, well-tested software,
 mostly in Rust, with TypeScript and Python where they fit the job better.
@@ -9,6 +9,8 @@ remote.
 
 More on [ericjingryd.com](https://ericjingryd.com) and
 [LinkedIn](https://www.linkedin.com/in/eric-jingryd/).
+
+<br clear="right">
 
 ## Open source
 
